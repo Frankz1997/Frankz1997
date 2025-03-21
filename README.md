@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**Frankz1997/Frankz1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi, I'm Castro Sanchez<a href="" target="blank">
+<h3 align="center">Certified Senior SQL by Franco at UAS</h3>
+<a target="_blank" align="center">
+  <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif">
+</a>
+<br><br>
+<p align="center">
+  <em>
+      "¿Sabes por qué solo desayuno en McDonald's? <br> Porque solo como en lugares que empiezan con 'Mac'." <br> -Felix González(2025) <br> (Usuario Mac)
+  </em> 
